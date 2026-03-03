@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Project/main.py.md",
-                "mode": "source",
+                "file": "Master Index.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "main.py"
+              "title": "Master Index"
             }
           }
         ],
@@ -257,21 +257,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fd8493c8ea2bd35",
+  "active": "513dd85ba288f1f7",
   "lastOpenFiles": [
-    "Notes/Project/main.py.md",
-    "Notes/Python/Python MoC.md",
     "Templates/TEMPLATE_02.md",
+    "Templates/TEMPLATE_00.md",
+    "Notes/TypeScript/Lesson 01.md",
+    "Notes/Project/main.py.md",
+    "Notes/Python/Dictionaries.md",
+    "Notes/JavaScript/JS MoC.md",
+    "Notes/Python/Python MoC.md",
     "Notes/Project/Project MoC.md",
     "Master Index.md",
-    "Notes/JavaScript/JS MoC.md",
     "Notes/TypeScript/TS MoC.md",
-    "Notes/Python/Dictionaries.md",
-    "Notes/TypeScript/Lesson 01.md",
     "Notes/JavaScript/Lesson 01.md",
     "Notes/Project",
     "Templates/TEMPLATE_01.md",
-    "Templates/TEMPLATE_00.md",
     "Templates",
     "Welcome.md",
     "Notes/JavaScript",
