@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "b1f3a75e61944fdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cc2135c66404633",
+        "type": "tabs",
+        "dimension": 54.109589041095894,
+        "children": [
+          {
+            "id": "046777b35bf54d59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "a8754a554d3dab82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/TEMPLATE_01.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TEMPLATE_01"
+            }
+          },
+          {
+            "id": "9e9d808dace76387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/JavaScript/JS MoC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JS MoC"
+            }
+          },
+          {
+            "id": "513dd85ba288f1f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Project/main.py.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "main.py"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "5e89b3a2e3ac45af",
+        "type": "tabs",
+        "dimension": 45.89041095890411,
+        "children": [
+          {
+            "id": "8fd8493c8ea2bd35",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2ed3abcc043b390",
+    "type": "split",
+    "children": [
+      {
+        "id": "7488d4b01c9cc749",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec55e90daaf96cef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d033150f7d1959aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fe90687f8abbbc9f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45a34673a40ecaf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "25353efc7a2c0c48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bda417d56d2f45b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Python/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "573afdd01b98fe0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Python/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "64eea2da1fffef46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "827711ed64a60d79",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a8df71178044f55f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Python/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "8fd8493c8ea2bd35",
+  "lastOpenFiles": [
+    "Notes/Project/main.py.md",
+    "Notes/Python/Python MoC.md",
+    "Templates/TEMPLATE_02.md",
+    "Notes/Project/Project MoC.md",
+    "Master Index.md",
+    "Notes/JavaScript/JS MoC.md",
+    "Notes/TypeScript/TS MoC.md",
+    "Notes/Python/Dictionaries.md",
+    "Notes/TypeScript/Lesson 01.md",
+    "Notes/JavaScript/Lesson 01.md",
+    "Notes/Project",
+    "Templates/TEMPLATE_01.md",
+    "Templates/TEMPLATE_00.md",
+    "Templates",
+    "Welcome.md",
+    "Notes/JavaScript",
+    "Notes/TypeScript",
+    "Notes/Python",
+    "Notes"
+  ]
+}
