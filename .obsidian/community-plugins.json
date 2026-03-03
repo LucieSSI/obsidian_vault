@@ -1,5 +1,6 @@
 [
   "templater-obsidian",
   "dataview",
-  "github-sync"
+  "github-sync",
+  "obsidian-git"
 ]
