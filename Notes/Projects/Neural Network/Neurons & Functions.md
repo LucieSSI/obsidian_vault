@@ -8,7 +8,7 @@ date: 2026-03-05
 # 📝 Topic: Neurons & Functions
 
 > [!abstract] **Logic Summary**
-> *Neurons are stackable units that take inputs, and produce a singular output.*
+> *Neurons are stackable units that take inputs, and produce a singular output. Using the sigmoid function as its activation.*
 
 ---
 
