@@ -35,7 +35,7 @@
               "state": {
                 "file": "Notes/Projects/Neural Network/Neurons & Functions.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Neurons & Functions"

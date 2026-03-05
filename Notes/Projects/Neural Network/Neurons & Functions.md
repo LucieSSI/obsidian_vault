@@ -5,7 +5,7 @@ language: Neural Network
 status: x🌱 Learning
 date: 2026-03-05
 ---
-# 📝 Topic: Untitled
+# 📝 Topic: Neurons & Functions
 
 > [!abstract] **Logic Summary**
 > *In plain English: What does this code/concept actually do?*
