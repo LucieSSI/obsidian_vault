@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7cc2135c66404633",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8fd8493c8ea2bd35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Projects/Neural Network/Neural Network MoC.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Neural Network MoC"
-            }
-          }
-        ]
-      },
-      {
         "id": "57173c07de37d5c5",
         "type": "tabs",
         "children": [
@@ -98,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 200
   },
   "right": {
     "id": "45a34673a40ecaf0",
@@ -200,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

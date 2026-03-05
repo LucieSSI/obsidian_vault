@@ -8,7 +8,7 @@ date: 2026-03-05
 # 📝 Topic: Neurons & Functions
 
 > [!abstract] **Logic Summary**
-> *In plain English: What does this code/concept actually do?*
+> *Neurons are stackable units that take inputs, and produce a singular output.*
 
 ---
 
