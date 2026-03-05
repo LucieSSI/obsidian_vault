@@ -1,6 +1,6 @@
 ---
-type: project-note
-subject: "[[Project MoC]]"
+type: uap-note
+subject: "[[UAP MoC]]"
 language:
 status: 🌱 Learning
 created: 2026-03-03

@@ -1,12 +1,12 @@
 ---
-type: MOC
-subject: Project
+type: project-moc
+subject: Machine Learning
 status: 🏗️ In Progress
 ---
 # 🗺️ Untitled Map of Content
 
 > [!info] **Learning Goal**
-> *Document the project's aspects and how they work*
+> *Master the syntax and core libraries of Untitled.*
 
 ---
 
@@ -15,8 +15,7 @@ status: 🏗️ In Progress
 
 ```dataview
 TABLE date as "Date", status as "Progress"
-FROM ""
-WHERE type = "project-moc"
+WHERE type = "ml-note"
 SORT date DESC
 ```
 [[Master Index]]

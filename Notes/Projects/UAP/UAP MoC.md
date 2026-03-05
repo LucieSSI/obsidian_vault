@@ -1,12 +1,12 @@
 ---
-type: MOC
-subject: Project
+type: project-moc
+subject: UAP MoC
 status: 🏗️ In Progress
 ---
-# 🗺️ Untitled Map of Content
+# 🗺️ UAP MoC Map of Content
 
 > [!info] **Learning Goal**
-> *Document the project's aspects and how they work*
+> *Master the syntax and core libraries of UAP MoC.*
 
 ---
 
@@ -15,8 +15,7 @@ status: 🏗️ In Progress
 
 ```dataview
 TABLE date as "Date", status as "Progress"
-FROM ""
-WHERE type = "project-moc"
+WHERE type = "uap-note"
 SORT date DESC
 ```
 [[Master Index]]
