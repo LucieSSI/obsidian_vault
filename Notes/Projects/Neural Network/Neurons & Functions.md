@@ -1,9 +1,9 @@
 ---
 type: ml-note
 subject: "[[Neural Network MOC]]"
-language: "Neural Network"
-status: 🌱 Learning
-date: "2026-03-05"
+language: Neural Network
+status: x🌱 Learning
+date: 2026-03-05
 ---
 # 📝 Topic: Untitled
 
