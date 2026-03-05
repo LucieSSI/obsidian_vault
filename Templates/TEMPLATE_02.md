@@ -1,10 +1,10 @@
 ---
 type: project-note
-subject: "[[Project MOC]]"
-language: 
+subject: "[[Project MoC]]"
+language:
 status: 🌱 Learning
 created: <% tp.date.now("YYYY-MM-DD") %>
-filepath: 
+filepath:
 ---
 
 # 📝 File: <% tp.file.title %>
@@ -44,4 +44,4 @@ filepath:
 ## 🔗 Connections
 - **Related Note:** [[Other File]]
 - **Official Docs:** [Link]
-- **Back to Hub:** [[Project MOC]]
+- **Back to Hub:** [[Project MoC]]

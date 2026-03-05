@@ -6,7 +6,7 @@
       {
         "id": "7cc2135c66404633",
         "type": "tabs",
-        "dimension": 54.109589041095894,
+        "dimension": 51.52998776009792,
         "children": [
           {
             "id": "046777b35bf54d59",
@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master Index.md",
-                "mode": "preview",
+                "file": "Notes/Project/main.py.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Master Index"
+              "title": "main.py"
             }
           }
         ],
@@ -70,16 +70,20 @@
       {
         "id": "5e89b3a2e3ac45af",
         "type": "tabs",
-        "dimension": 45.89041095890411,
+        "dimension": 48.47001223990208,
         "children": [
           {
             "id": "8fd8493c8ea2bd35",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Project/Project MoC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project MoC"
             }
           }
         ]
@@ -139,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 204.5
   },
   "right": {
     "id": "45a34673a40ecaf0",
@@ -257,21 +261,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "513dd85ba288f1f7",
+  "active": "ec55e90daaf96cef",
   "lastOpenFiles": [
-    "Templates/TEMPLATE_02.md",
-    "Templates/TEMPLATE_00.md",
-    "Notes/TypeScript/Lesson 01.md",
     "Notes/Project/main.py.md",
-    "Notes/Python/Dictionaries.md",
-    "Notes/JavaScript/JS MoC.md",
     "Notes/Python/Python MoC.md",
+    "Templates/TEMPLATE_02.md",
     "Notes/Project/Project MoC.md",
     "Master Index.md",
+    "Notes/JavaScript/JS MoC.md",
     "Notes/TypeScript/TS MoC.md",
+    "Notes/Python/Dictionaries.md",
+    "Notes/TypeScript/Lesson 01.md",
     "Notes/JavaScript/Lesson 01.md",
     "Notes/Project",
     "Templates/TEMPLATE_01.md",
+    "Templates/TEMPLATE_00.md",
     "Templates",
     "Welcome.md",
     "Notes/JavaScript",

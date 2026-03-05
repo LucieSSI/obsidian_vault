@@ -1,6 +1,6 @@
 ---
 type: project-note
-subject: "[[Project MOC]]"
+subject: "[[Project MoC]]"
 language:
 status: 🌱 Learning
 created: 2026-03-03
@@ -45,4 +45,4 @@ filepath: ./main.py
 ## 🔗 Connections
 - **Related Note:** [[Other File]]
 - **Official Docs:** [Link]
-- **Back to Hub:** [[Project MOC]]
+- **Back to Hub:** [[Project MoC]]
