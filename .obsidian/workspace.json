@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Project/main.py.md",
+                "file": "Notes/Projects/main.py.md",
                 "mode": "source",
                 "source": true
               },
@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Project/Project MoC.md",
+                "file": "Notes/Projects/Project MoC.md",
                 "mode": "source",
                 "source": false
               },
@@ -263,17 +263,17 @@
   },
   "active": "ec55e90daaf96cef",
   "lastOpenFiles": [
-    "Notes/Project/main.py.md",
+    "Notes/Projects/main.py.md",
     "Notes/Python/Python MoC.md",
     "Templates/TEMPLATE_02.md",
-    "Notes/Project/Project MoC.md",
+    "Notes/Projects/Project MoC.md",
     "Master Index.md",
     "Notes/JavaScript/JS MoC.md",
     "Notes/TypeScript/TS MoC.md",
     "Notes/Python/Dictionaries.md",
     "Notes/TypeScript/Lesson 01.md",
     "Notes/JavaScript/Lesson 01.md",
-    "Notes/Project",
+    "Notes/Projects",
     "Templates/TEMPLATE_01.md",
     "Templates/TEMPLATE_00.md",
     "Templates",
