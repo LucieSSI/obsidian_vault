@@ -2,5 +2,6 @@
   "templater-obsidian",
   "dataview",
   "github-sync",
-  "obsidian-git"
+  "obsidian-git",
+  "execute-code"
 ]

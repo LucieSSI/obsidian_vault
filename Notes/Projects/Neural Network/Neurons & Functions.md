@@ -25,7 +25,7 @@ date: 2026-03-05
 > Now it's substituted into our activation function
 > $$\frac{1}{1+e^{-z}}$$
 
-> [!example] **Notes (The "How")**
+> [!example] **Neurons in Python**
 > ```python
 > # For this project, Numpy's heavily utilized, and allows the neurons to function.
 > import numpy as np
@@ -41,7 +41,14 @@ date: 2026-03-05
 > 		self.bias = bias
 > 	
 > 	def feedforward(self, inputs):
-> 		
+> 		total = np.dot(self.weights, inputs) + self.bias
+> 		return sigmoid(total)
+> weights = np.array([0,1])
+> bias = 4
+> n = Neuron(weights, bias)
+> 
+> x = np.array([-1,-2])
+> print(n.feedforward(x))
 > ```
 
 ---
