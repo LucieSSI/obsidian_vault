@@ -26,8 +26,22 @@ date: 2026-03-05
 > $$\frac{1}{1+e^{-z}}$$
 
 > [!example] **Notes (The "How")**
-> ```neural network
-> // Your code snippets here
+> ```python
+> # For this project, Numpy's heavily utilized, and allows the neurons to function.
+> import numpy as np
+> 
+> def sigmoid(x):
+> 	# Define our activation function 
+> 	return 1 / (1 + np.exp(-x))
+> 
+> # Now to create the actual Neurons
+> class Neuron:
+> 	def __init__(self, weight, bias):
+> 		self.weights = weight
+> 		self.bias = bias
+> 	
+> 	def feedforward(self, inputs):
+> 		
 > ```
 
 ---

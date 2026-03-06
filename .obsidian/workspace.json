@@ -19,7 +19,29 @@
               },
               "icon": "lucide-file",
               "title": "Neurons & Functions"
-            }
+            },
+            "group": "038ec604dbb8c0f6"
+          }
+        ]
+      },
+      {
+        "id": "fde1fe70e2d178b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "399263f0da327724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Projects/Neural Network/Neurons & Functions.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Neurons & Functions"
+            },
+            "group": "038ec604dbb8c0f6"
           }
         ]
       }
@@ -197,7 +219,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16fc9677f9fce7b6",
+  "active": "399263f0da327724",
   "lastOpenFiles": [
     "Notes/Projects/Neural Network/Neural Network MoC.md",
     "Templates/TEMPLATE_02.md",
