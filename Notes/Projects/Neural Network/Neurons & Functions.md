@@ -15,7 +15,7 @@ date: 2026-03-05
 ## 💡 Concepts & Code
 
 > [!question] **How do Neurons work?**
-> **Problem:** Neurons take inputs $x$ ?
+> **Problem:** Neurons take inputs $x$, utilizes an activation function (Sigmoid Function) $\frac{1}{1+e^{-x}}$ ?
 > **Concept:** [Term]
 
 > [!example] **Notes (The "How")**
