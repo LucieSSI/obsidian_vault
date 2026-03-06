@@ -14,8 +14,8 @@ date: 2026-03-05
 
 ## 💡 Concepts & Code
 
-> [!question] **Cues (The "Why")**
-> **Problem:** How do I [X]?
+> [!question] **How do Neurons work?**
+> **Problem:** Neurons take inputs $x$ ?
 > **Concept:** [Term]
 
 > [!example] **Notes (The "How")**
