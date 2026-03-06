@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Projects/Neural Network/Neurons & Functions.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -199,10 +199,11 @@
   },
   "active": "16fc9677f9fce7b6",
   "lastOpenFiles": [
-    "Templates/TEMPLATE_00.md",
-    "Templates/TEMPLATE_02.md",
-    "Notes/Projects/Neural Network/Neurons & Functions.md",
     "Notes/Projects/Neural Network/Neural Network MoC.md",
+    "Templates/TEMPLATE_02.md",
+    "Templates/TEMPLATE_00.md",
+    "Templates/TEMPLATE_01.md",
+    "Notes/Projects/Neural Network/Neurons & Functions.md",
     "Notes/Projects/Project MoC.md",
     "Notes/Projects/Untitled.md",
     "Notes/Projects/Neural Network",
@@ -217,7 +218,6 @@
     "Notes/TypeScript/Lesson 01.md",
     "Notes/JavaScript/Lesson 01.md",
     "Notes/Projects",
-    "Templates/TEMPLATE_01.md",
     "Templates",
     "Welcome.md",
     "Notes/JavaScript",
