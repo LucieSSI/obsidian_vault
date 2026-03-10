@@ -178,27 +178,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Python/Untitled.md",
+                "file": "Notes/Projects/Neural Network/Neurons & Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
-            }
-          },
-          {
-            "id": "38dbeb4c1ef0e3fb",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Neurons & Functions"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -219,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "399263f0da327724",
+  "active": "16fc9677f9fce7b6",
   "lastOpenFiles": [
     "Notes/Projects/Neural Network/Neural Network MoC.md",
     "Templates/TEMPLATE_02.md",
