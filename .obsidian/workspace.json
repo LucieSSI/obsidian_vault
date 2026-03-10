@@ -13,35 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Projects/Neural Network/Neurons & Functions.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Neurons & Functions"
-            },
-            "group": "038ec604dbb8c0f6"
-          }
-        ]
-      },
-      {
-        "id": "fde1fe70e2d178b1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "399263f0da327724",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Projects/Neural Network/Neurons & Functions.md",
+                "file": "Notes/Temporary/PerDev 03.10.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Neurons & Functions"
-            },
-            "group": "038ec604dbb8c0f6"
+              "title": "PerDev 03.10"
+            }
+          }
+        ]
+      },
+      {
+        "id": "90de59379edfeeb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cd788217efd8926",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Temporary/PerDev 03.10.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "PerDev 03.10"
+            }
           }
         ]
       }
@@ -211,11 +209,14 @@
   },
   "active": "16fc9677f9fce7b6",
   "lastOpenFiles": [
-    "Notes/Projects/Neural Network/Neural Network MoC.md",
     "Templates/TEMPLATE_02.md",
+    "Notes/Temporary/PerDev 03.10.md",
+    "Notes/Projects/Neural Network/Neurons & Functions.md",
+    "Notes/Temporary",
+    "Notes/Untitled.md",
+    "Notes/Projects/Neural Network/Neural Network MoC.md",
     "Templates/TEMPLATE_00.md",
     "Templates/TEMPLATE_01.md",
-    "Notes/Projects/Neural Network/Neurons & Functions.md",
     "Notes/Projects/Project MoC.md",
     "Notes/Projects/Untitled.md",
     "Notes/Projects/Neural Network",
