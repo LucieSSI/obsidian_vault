@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Temporary/PerDev 03.10.md",
+                "file": "Templates/TEMPLATE_02.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PerDev 03.10"
+              "title": "TEMPLATE_02"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Temporary/PerDev 03.10.md",
+                "file": "Notes/Projects/Neural Network/Neurons & Functions.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PerDev 03.10"
+              "title": "Neurons & Functions"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "16fc9677f9fce7b6",
   "lastOpenFiles": [
-    "Templates/TEMPLATE_02.md",
     "Notes/Temporary/PerDev 03.10.md",
+    "Templates/TEMPLATE_02.md",
     "Notes/Projects/Neural Network/Neurons & Functions.md",
     "Notes/Temporary",
     "Notes/Untitled.md",
